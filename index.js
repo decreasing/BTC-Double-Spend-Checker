@@ -93,4 +93,4 @@ client.on("message", async message => {
     }
 });
 
-client.login('NzQzNzk5ODAzNzQ1NjY1MDM1.XzZ7jA.W1AzlIf0kqaXlzOb4H0HWTis79g');
+client.login('bot token');
